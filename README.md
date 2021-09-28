@@ -15,7 +15,7 @@
   
   
  
-  <img align="right" alt="Rafa-yoda" height="200" width="200" src="https://media.giphy.com/media/SvF1NQaAsG1kt4VuZ3/giphy.gif">
+  <img align="right" alt="Galo" height="200" width="200" src="https://media.giphy.com/media/SvF1NQaAsG1kt4VuZ3/giphy.gif">
 
 </div>
   
